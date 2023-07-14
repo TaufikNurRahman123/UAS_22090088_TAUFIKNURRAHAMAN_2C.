@@ -26,7 +26,7 @@ class Product {
         this.category = category;
         this.thumbnail = thumbnail;
         this.images = images;
-        //M.Ilham Rigan Agachi 2C
+        //Taufik Nur Rahman 2C
     }
 
     public int getId() {
@@ -72,7 +72,7 @@ class Product {
     public String[] getImages() {
         return images;
     }
-    //M.Ilham Rigan Agachi 2C
+    //Taufik Nur Rahman 2C
 
     @Override
     public String toString() {
@@ -89,7 +89,7 @@ class Product {
                 ", thumbnail='" + thumbnail + '\'' +
                 ", images=" + Arrays.toString(images) +
                 '}';
-        //M.Ilham Rigan Agachi 2C
+        //Taufik Nur Rahman 2C
     }
 }
 
